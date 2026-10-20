@@ -27,10 +27,5 @@
 | 🌐 [**website-2**](https://github.com/1NaserQ8/website-2) | **Trip Kuwait** — full-stack team website with Node/Express backend | JavaScript · Node.js |
 | 🗄️ [**database**](https://github.com/1NaserQ8/database) | Database Systems coursework + **Car Crash** project built on the [Chicago Traffic Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data) dataset | SQL · ER Modeling |
 
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1NaserQ8&theme=github-compact&hide_border=true" alt="activity graph"/>
-</p>
-
 ---
 <p align="center">⭐ Thanks for visiting my profile!</p>
