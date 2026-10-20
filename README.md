@@ -15,7 +15,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,vite,nodejs,express,mongodb,mysql,linux,git,github,vscode&perline=8" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,react,vite,nodejs,express,mongodb,mysql,linux,git,github,vscode,unity&perline=8" alt="skills"/>
 </p>
 
 ### 🚀 Featured Projects
@@ -26,6 +26,7 @@
 | 🗺️ [**website-1**](https://github.com/1NaserQ8/website-1) | Full-stack MERN web app with an interactive OpenLayers map | React · Express · MongoDB |
 | 🌐 [**website-2**](https://github.com/1NaserQ8/website-2) | **Trip Kuwait** — full-stack team website with Node/Express backend | JavaScript · Node.js |
 | 🗄️ [**database**](https://github.com/1NaserQ8/database) | Database Systems coursework + **Car Crash** project built on the [Chicago Traffic Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data) dataset | SQL · ER Modeling |
+| 🎮 [**game-jam**](https://github.com/1NaserQ8/game-jam) | 3D third-person collectible game made at the **Kuwait University Game Jam** | Unity · C# |
 
 ---
 <p align="center">⭐ Thanks for visiting my profile!</p>
